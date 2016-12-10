@@ -1,0 +1,11 @@
+What new skills have you learned?
+How to use basic HTML tags and also searching the internet to find appropriate tags that have to be used.
+
+What has been easy?
+To imagine the structure of an HTML page.
+
+What has been difficult?
+Pinpointing the exact texts that need to be changed
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+Picked up the same thought process taught at audacity class and implemented the same
